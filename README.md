@@ -1,5 +1,5 @@
 # HEART ATTACK RISK PREDICTION IN INDONESIAN ADULTS
-
+by Chong Xin Yi (U2430538H) and Lim Yi Yang (U2430620B)
 ## ABOUT
 
 Our mini-project focuses on identifying the main lifestyle habits and clinical risk factors that cause heart attacks, and to build a predictive model to help people identify the probabilty of them being at risk to heart attack. To aid in our project, we have used a dataset from kaggle. The link to the dataset would be attached below.
