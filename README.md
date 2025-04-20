@@ -32,8 +32,6 @@ For categorical data :
 
 - Countplot
 
-- Group Mean Table
-
 - Heatmap
 
 ### How we analysised 
@@ -62,7 +60,7 @@ For categorical data :
 
 Age is a Major Predictor
 
-- Older individuals, especially those above 45, showed a significantly higher risk of heart attacks.
+- Older individuals, especially those above 63.5, showed a significantly higher risk of heart attacks.
 
 High Cholesterol and Hypertension Are Critical Risk Factors
 
@@ -84,7 +82,7 @@ CatBoost Model Revealed Hidden Patterns
 
 These insights aren’t just numbers — they point toward real, preventive actions we can take:
 
-- Focus screening efforts on adults aged 45 and above
+- Focus screening efforts on adults aged 63.5 and above
 
 - Run targeted anti-smoking campaigns
 
