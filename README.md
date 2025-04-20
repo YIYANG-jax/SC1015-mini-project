@@ -42,6 +42,8 @@ For categorical data :
 
 - Separation Score
 
+- Chi-Square Test
+
 ## Machine Learning Modeling :
 
 - Decision tree
